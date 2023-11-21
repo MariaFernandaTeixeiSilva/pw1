@@ -1,0 +1,28 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#logo{
+    border-radius: 80%;
+    float: left;
+    width: 20px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.custom-navbar {
+    background-color: #8ebddd;
+    color: #ffffff;
+    height: 20%;
+    width: 100%
+}
+
+#container {
+    background-color: s#ffffff;
+    color: #000000;
+    height: 150%;
+    width: 100%;
+}
+
+
+
