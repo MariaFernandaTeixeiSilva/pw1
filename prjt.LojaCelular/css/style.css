@@ -1,0 +1,38 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#logo{
+    border-radius: 80%;
+    float: left;
+    width: 20px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.custom-navbar {
+    background-color: #045891;
+    color: #ffffff;
+    height: 20%;
+    width: 100%
+}
+
+#container {
+    background-color: #e2e1e1;
+    color: #000000;
+    height: 150%;
+    width: 100%;
+}
+
+
+.custom-carousel {
+    max-width: 1000px; 
+    max-height: 700px; 
+    margin: 0 auto; 
+}
+
+.card {
+    border-radius: 70px; /* Ajuste o valor conforme desejado */
+    border: 1px solid #ccc; /* Adicione uma borda opcional */
+    padding: 10px; /* Apenas para espaçamento interno */
+  }
